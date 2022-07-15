@@ -1,5 +1,5 @@
 import json
-import random
+
 
 with open("wict.json") as js:
     dict = json.load(js)
