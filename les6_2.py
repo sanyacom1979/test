@@ -1,6 +1,5 @@
 import json
 
-
 with open("wict.json") as js:
     dict = json.load(js)
 b = 0
